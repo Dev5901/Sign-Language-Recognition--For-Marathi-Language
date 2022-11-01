@@ -1,0 +1,2 @@
+# Sign Language Recognition  For Marathi Language
+ The Proposed System detects the gestures of mute people in real time and  converts it to text so they can converse with other people.  Sign language recognition refers to the conversion of these gestures into  alphabets of Marathi language. Thus, conversion of sign language into  alphabets by an algorithm or a model can help bridge the gap between people  with hearing or speaking impairment and the rest of the world.
